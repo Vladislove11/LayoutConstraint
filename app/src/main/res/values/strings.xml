@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="my_text">Результат</string>
+    <string name="hint_input_text">Поле ввода текста</string>
+</resources>
